@@ -8,4 +8,9 @@
 
 **Learning Paths**
 
+### Develop a Asp.Net Core Web App Path
+
+![Develop a Asp.Net Core Web App](https://github.com/SaifSaidi/Microsoft-Learn/blob/main/assets/Develop%20an%20ASP.NET%20Core%20web%20app%20that%20consumes%20an%20API.png?raw=true)
+
+
 **Modules**
