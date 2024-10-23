@@ -22,7 +22,7 @@
 - Web Fundamentals
 - HTML, CSS
 - Python
-- Shared Link: [Link](www.udacity.com/certificate/e/9bb4d9e4-cd66-11ed-a5f8-bbc2e1c118b3)
+- Shared Link: [Link](https://www.udacity.com/certificate/e/9bb4d9e4-cd66-11ed-a5f8-bbc2e1c118b3)
   
 ![Full Stack Track](https://github.com/SaifSaidi/Certifications-Repository/blob/main/assets/full-stack-track.png?raw=true)
 
@@ -32,7 +32,7 @@
 - Descriptive Statistics: data types, measures of center, and the basics of statistical notation, measures of spread, shape, and outliers as associated with quantitative data.
 - SQL: SQL basics, Joins, Aggregations, Subqueries & Temporary Tables
 - Data Visualization, Design
-- Shared Link: [Link](www.udacity.com/certificate/e/d2ee6e0a-cd72-11ed-8048-c739073be08b)
+- Shared Link: [Link](https://www.udacity.com/certificate/e/d2ee6e0a-cd72-11ed-8048-c739073be08b)
   
 ![Data Analysis Track](https://github.com/SaifSaidi/Certifications-Repository/blob/main/assets/data-analysis.png?raw=true)
 
